@@ -1,0 +1,60 @@
+Here's a concise list of the commands you've provided, along with short descriptions for each. I've ensured that there are no duplicates.
+
+### Command List with Descriptions
+
+1. **`cd git-for-devops/`**: Changes the directory to `git-for-devops`.
+
+2. **`pwd`**: Prints the current working directory.
+
+3. **`vim hello-dosto.txt`**: Opens or creates `hello-dosto.txt` in the Vim text editor.
+
+4. **`clear`**: Clears the terminal screen.
+
+5. **`ls`**: Lists files and directories in the current directory.
+
+6. **`git init`**: Initializes a new Git repository in the current directory.
+
+7. **`touch hello-dosto.txt`**: Creates an empty file named `hello-dosto.txt`.
+
+8. **`git add nibbi.txt`**: Stages `nibbi.txt` for the next commit.
+
+9. **`git status`**: Displays the current status of the repository, showing staged, unstaged, and untracked files.
+
+10. **`git push -u origin master`**: Pushes local changes to the `master` branch of the remote repository and sets it as the default upstream branch.
+
+11. **`dir`**: Lists files and directories in Windows (similar to `ls` in Unix).
+
+12. **`git log`**: Shows the commit history for the repository.
+
+13. **`git branch`**: Lists all branches in the repository, highlighting the current branch.
+
+14. **`mkdir github`**: Creates a new directory named `github`.
+
+15. **`git clone <repository-url>`**: Creates a copy of a remote repository on your local machine.
+
+16. **`cd .ssh`**: Changes the directory to `.ssh`.
+
+17. **`rm -f id_ed25519 id_ed25519.pub`**: Forcefully removes the specified SSH key files.
+
+18. **`ssh-keygen`**: Generates a new SSH key pair.
+
+19. **`cat id_ed25519.pub`**: Displays the contents of the public SSH key file.
+
+20. **`git remote add origin <repository-url>`**: Adds a remote repository with the specified URL as `origin`.
+
+21. **`git pull origin main`**: Fetches and merges changes from the `main` branch of the remote repository.
+
+22. **`git diff Assignment.txt`**: Shows the differences in `Assignment.txt` compared to the last commit.
+
+23. **`git commit -m "message"`**: Commits staged changes with a descriptive message.
+
+24. **`git push origin main`**: Pushes local commits to the `main` branch of the remote repository.
+
+25. **`vim chirag.txt`**: Opens or creates `chirag.txt` in the Vim text editor.
+
+26. **`git add chirag.txt`**: Stages `chirag.txt` for the next commit.
+
+27. **`git commit chirag.txt`**: Commits changes made to `chirag.txt` (note: typically, you should use `git commit -m "message"`).
+
+### Summary
+This list covers various commands related to Git operations, directory navigation, and file manipulation, helping you track your usage effectively. Feel free to add more details or context based on your specific needs!
